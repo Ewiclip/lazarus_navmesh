@@ -1,0 +1,334 @@
+[
+    {
+        "ID": 134,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 133,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 132,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 131,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 130,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 129,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 128,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 127,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 126,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 125,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 124,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 123,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 122,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 121,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 120,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 99,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 98,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 97,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 96,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 95,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 94,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 93,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 92,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 91,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 90,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 85,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 51,
+        "Name": "MPORTAL700E",
+        "Type": 58,
+        "Scale": 1.0,
+        "Transform": [
+            [
+                0.9924795627593994,
+                -0.12241067737340927,
+                -0.0,
+                0.0
+            ],
+            [
+                0.12241067737340927,
+                0.9924795627593994,
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                -0.0,
+                1.0,
+                0.0
+            ],
+            [
+                1488.1199951171876,
+                629.8779907226563,
+                26.000999450683595,
+                1.0
+            ]
+        ]
+    },
+    {
+        "ID": 86,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 87,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 88,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 89,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 100,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 101,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 102,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 103,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 104,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 105,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 106,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 107,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 108,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 109,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 110,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 111,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 112,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 113,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 114,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 115,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 116,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 117,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 118,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    },
+    {
+        "ID": 119,
+        "Name": "CRATEG",
+        "Type": 53,
+        "Scale": 1.0
+    }
+]
